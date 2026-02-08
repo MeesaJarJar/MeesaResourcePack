@@ -14,8 +14,6 @@
 
 # ---
 
-# 
-
 # \## 📦 Included Assets
 
 # 
@@ -26,25 +24,21 @@
 
 # \#### Boulder
 
-# !\[Boulder](MeesaResourcePack/2DArt/objects/boulder.gif)
+# !\[Boulder](2DArt/objects/boulder.gif)
 
 # 
 
 # \#### Dead Tree
 
-# !\[Dead Tree](MeesaResourcePack/2DArt/objects/deadtree.gif)
+# !\[Dead Tree](2DArt/objects/deadtree.gif)
 
 # 
 
 # \#### Tree
 
-# !\[Tree](MeesaResourcePack/2DArt/objects/tree.gif)
+# !\[Tree](2DArt/objects/tree.gif)
 
-# 
 
-# ---
-
-# 
 
 # \## 📁 Folder Structure
 
